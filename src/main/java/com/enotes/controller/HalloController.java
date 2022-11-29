@@ -8,7 +8,9 @@ public class HalloController {
 	
 	 @GetMapping("/")
 	public String Hoppital() {
-		 return "Halojhhhhhhhhhhhhhhhhhhhhhhhhho" ;
+		 return "Haloo" ;
 	}
+	 
+	 
 
 }
